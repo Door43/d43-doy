@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[doy:home|Door43 (doy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-doy|d43-doy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-doy/archive/master.zip|d43-doy.zip]]
+
+**Recent Changes**
+{{changes>ns = doy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/doy|Ethnologue data]]
+
